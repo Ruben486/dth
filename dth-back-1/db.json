@@ -1,0 +1,1052 @@
+{
+"productos": [
+{
+"descripcion": "ACONDICIONADOR DE AIRE-.-ELECTRA 32TC  3200W..........",
+"id": "101020",
+"rubro": "001",
+"contado": "490,000.00",
+"entrega": "147,000.00",
+"ccuota": "6",
+"vcuota": "108,616.67",
+"url": "/public/split.jpg"
+},
+{
+"descripcion": "ACONDICIONADOR DE AIRE-.-WESTINGHOUSE 5500 FRIG............................",
+"id": "101021",
+"rubro": "001",
+"contado": "61,985.81",
+"entrega": "18,595.74",
+"ccuota": "6",
+"vcuota": "13,740.19",
+"url": "/public/split.jpg"
+},
+{
+"descripcion": "ACONDICIONADOR DE AIRE-.-AUDIVIC SPLIT 3000 F/C......................",
+"id": "101103",
+"rubro": "001",
+"contado": "22,400.73",
+"entrega": "6,720.22",
+"ccuota": "6",
+"vcuota": "4,965.50",
+"url": "/public/split.jpg"
+},
+{
+"descripcion": "ACONDICIONADOR DE AIRE--SUAVEGOM MERIT 1,40 X 0,24.......................",
+"id": "102320",
+"rubro": "001",
+"contado": "26,038.04",
+"entrega": "7,811.41",
+"ccuota": "6",
+"vcuota": "5,771.77",
+"url": "/public/split.jpg"
+},
+{
+"descripcion": "AFEITADORA-PHILIPS- HQ-6907.16................................",
+"id": "201003",
+"rubro": "002",
+"contado": "2,426.75",
+"entrega": "728.02",
+"ccuota": "6",
+"vcuota": "537.93",
+"url": "/public/afeitadora.jpg"
+},
+{
+"descripcion": "AFEITADORA-PHILIPS-CORTADORA CABELLO HC3505/15.......................",
+"id": "201005",
+"rubro": "002",
+"contado": "18,438.00",
+"entrega": "5,531.40",
+"ccuota": "6",
+"vcuota": "4,087.09",
+"url": "/public/afeitadora.jpg"
+},
+{
+"descripcion": "AFEITADORA-V-EVER BEAUTY EB-1486...............................",
+"id": "202001",
+"rubro": "002",
+"contado": "13,621.61",
+"entrega": "4,086.48",
+"ccuota": "6",
+"vcuota": "3,019.46",
+"url": "/public/afeitadora.jpg"
+},
+{
+"descripcion": "AFEITADORA-V-PHILIPS QC5115 CORTADORA DE CABELLO",
+"id": "202023",
+"rubro": "002",
+"contado": "1,579.54",
+"entrega": "473.86",
+"ccuota": "6",
+"vcuota": "350.13",
+"url": "/public/afeitadora.jpg"
+},
+{
+"descripcion": "AFEITADORA-V-CORTADOR DE CABELLO HC 9-100......................",
+"id": "202031",
+"rubro": "002",
+"contado": "2,559.73",
+"entrega": "767.92",
+"ccuota": "6",
+"vcuota": "567.41",
+"url": "/public/afeitadora.jpg"
+},
+{
+"descripcion": "AFEITADORA-V-CORTADOR DE CABELLO HC10 100..................",
+"id": "202032",
+"rubro": "002",
+"contado": "3,097.36",
+"entrega": "929.21",
+"ccuota": "6",
+"vcuota": "686.58",
+"url": "/public/afeitadora.jpg"
+},
+{
+"descripcion": "AFEITADORA-V-GA.MA CORTADORA DE PELO SE PRO 9 POT.",
+"id": "202036",
+"rubro": "002",
+"contado": "4,623.74",
+"entrega": "1,387.12",
+"ccuota": "6",
+"vcuota": "1,024.93",
+"url": "/public/afeitadora.jpg"
+},
+{
+"descripcion": "AFEITADORA-V-OSTER CORTA PELO CLPPER MX PRO......",
+"id": "202040",
+"rubro": "002",
+"contado": "7,064.85",
+"entrega": "2,119.45",
+"ccuota": "6",
+"vcuota": "1,566.04",
+"url": "/public/afeitadora.jpg"
+},
+{
+"descripcion": "AFEITADORA-V-DUCATI CORTADORA DE CABELLO HC709...............",
+"id": "202042",
+"rubro": "002",
+"contado": "3,918.10",
+"entrega": "1,175.43",
+"ccuota": "6",
+"vcuota": "868.51",
+"url": "/public/afeitadora.jpg"
+},
+{
+"descripcion": "AFEITADORA-V-OSTER CORTADORA DE CABELLO ....................",
+"id": "202045",
+"rubro": "002",
+"contado": "46,445.90",
+"entrega": "13,933.77",
+"ccuota": "6",
+"vcuota": "10,295.51",
+"url": "/public/afeitadora.jpg"
+},
+{
+"descripcion": "AFEITADORA-V-NAVAJA LEO PAPPARELLA...........................",
+"id": "202100",
+"rubro": "002",
+"contado": "3,704.32",
+"entrega": "1,111.30",
+"ccuota": "6",
+"vcuota": "821.12",
+"url": "/public/afeitadora.jpg"
+},
+{
+"descripcion": "ALACENA-V-MOGETTA KIT COCINA 4 PTAS.........................",
+"id": "301001",
+"rubro": "003",
+"contado": "122,155.55",
+"entrega": "36,646.67",
+"ccuota": "6",
+"vcuota": "27,077.81",
+"url": "/public/alacenas.png"
+},
+{
+"descripcion": "ALACENA-V-MOGETTA KIT COCINA 3 PTAS...........",
+"id": "301002",
+"rubro": "003",
+"contado": "103,452.33",
+"entrega": "31,035.70",
+"ccuota": "6",
+"vcuota": "22,931.93",
+"url": "/public/alacenas.png"
+},
+{
+"descripcion": "ALACENA-V-MAXI KIT COCINA 3 PUERTAS 3 CAJ",
+"id": "301003",
+"rubro": "003",
+"contado": "8,116.21",
+"entrega": "2,434.86",
+"ccuota": "6",
+"vcuota": "1,799.09",
+"url": "/public/alacenas.png"
+},
+{
+"descripcion": "ALACENA-V-MAXI KIT COCINA 7 PUERTAS 3 CAJ...................",
+"id": "301004",
+"rubro": "003",
+"contado": "13,962.38",
+"entrega": "4,188.71",
+"ccuota": "6",
+"vcuota": "3,094.99",
+"url": "/public/alacenas.png"
+},
+{
+"descripcion": "ALACENA-V-MAXI KIT COCINA 5 PUERTAS 3 CAJ...................",
+"id": "301005",
+"rubro": "003",
+"contado": "10,563.56",
+"entrega": "3,169.07",
+"ccuota": "6",
+"vcuota": "2,341.59",
+"url": "/public/alacenas.png"
+},
+{
+"descripcion": "ALACENA-V-MOGETTA ALAC.MES. BAJO 1,20 MTS",
+"id": "301006",
+"rubro": "003",
+"contado": "199,357.91",
+"entrega": "59,807.37",
+"ccuota": "6",
+"vcuota": "44,191.00",
+"url": "/public/alacenas.png"
+},
+{
+"descripcion": "ALACENA-V-MOGETTA ALAC.MES. BAJO 1,40 MTS",
+"id": "301007",
+"rubro": "003",
+"contado": "218,131.13",
+"entrega": "65,439.34",
+"ccuota": "6",
+"vcuota": "48,352.40",
+"url": "/public/alacenas.png"
+},
+{
+"descripcion": "ALACENA-V-MOGETTA ALAC.MES. BAJO 1,60 MTS................",
+"id": "301008",
+"rubro": "003",
+"contado": "259,535.15",
+"entrega": "77,860.54",
+"ccuota": "6",
+"vcuota": "57,530.29",
+"url": "/public/alacenas.png"
+},
+{
+"descripcion": "ALACENA-V-MOGETTA C. VIDRIO 1,20 MTS.................",
+"id": "301009",
+"rubro": "003",
+"contado": "51,052.65",
+"entrega": "15,315.80",
+"ccuota": "6",
+"vcuota": "11,316.67",
+"url": "/public/alacenas.png"
+},
+{
+"descripcion": "ALACENA-V-MOGETTA C. VIDRIO 1,40 MTS........................",
+"id": "301010",
+"rubro": "003",
+"contado": "57,941.02",
+"entrega": "17,382.31",
+"ccuota": "6",
+"vcuota": "12,843.59",
+"url": "/public/alacenas.png"
+},
+{
+"descripcion": "ALACENA-V-MOGETTA C. VIDRIO 1,60 MTS.................",
+"id": "301011",
+"rubro": "003",
+"contado": "63,681.02",
+"entrega": "19,104.31",
+"ccuota": "6",
+"vcuota": "14,115.96",
+"url": "/public/alacenas.png"
+},
+{
+"descripcion": "ALACENA-V-JGO MOGETTA PREMIUM 1.60 ALACENA, BAJO, MESADA..",
+"id": "301015",
+"rubro": "003",
+"contado": "277,363.11",
+"entrega": "83,208.93",
+"ccuota": "6",
+"vcuota": "61,482.16",
+"url": "/public/alacenas.png"
+},
+{
+"descripcion": "ALACENA-V-ESCOBERO MOGETTA PREMIUM..........................",
+"id": "301020",
+"rubro": "003",
+"contado": "94,357.15",
+"entrega": "28,307.15",
+"ccuota": "6",
+"vcuota": "20,915.84",
+"url": "/public/alacenas.png"
+},
+{
+"descripcion": "ALACENA-V-PLATINUM KIT DE COCINA 3015.......................",
+"id": "301040",
+"rubro": "003",
+"contado": "10,909.02",
+"entrega": "3,272.70",
+"ccuota": "6",
+"vcuota": "2,418.17",
+"url": "/public/alacenas.png"
+},
+{
+"descripcion": "ALACENA-V-NESTOR ALACENA BAJO 1,60 MTS...............",
+"id": "301112",
+"rubro": "003",
+"contado": "18,064.52",
+"entrega": "5,419.36",
+"ccuota": "6",
+"vcuota": "4,004.30",
+"url": "/public/alacenas.png"
+},
+{
+"descripcion": "ALACENA-V-NESTOR ALACENA 1.60 MTS...........................",
+"id": "301115",
+"rubro": "003",
+"contado": "8,738.45",
+"entrega": "2,621.54",
+"ccuota": "6",
+"vcuota": "1,937.02",
+"url": "/public/alacenas.png"
+},
+{
+"descripcion": "ALACENA-V-ORLANDI KIT C ALACENA INC.1,20 MTS...........",
+"id": "301126",
+"rubro": "003",
+"contado": "9,764.42",
+"entrega": "2,929.33",
+"ccuota": "6",
+"vcuota": "2,164.45",
+"url": "/public/alacenas.png"
+},
+{
+"descripcion": "ALACENA-V-ORLANDI MULTIFUNCION 2 PUERTAS 400...............",
+"id": "301128",
+"rubro": "003",
+"contado": "44,145.36",
+"entrega": "13,243.61",
+"ccuota": "6",
+"vcuota": "9,785.56",
+"url": "/public/alacenas.png"
+},
+{
+"descripcion": "ALACENA-V-ORLANDI MULTIFUNCION 1 PUERTA 401.............",
+"id": "301129",
+"rubro": "003",
+"contado": "35,141.86",
+"entrega": "10,542.56",
+"ccuota": "6",
+"vcuota": "7,789.78",
+"url": "/public/alacenas.png"
+},
+{
+"descripcion": "ALACENA-V-ORLANDI 1,20 MT...................................",
+"id": "301130",
+"rubro": "003",
+"contado": "21,312.14",
+"entrega": "6,393.64",
+"ccuota": "6",
+"vcuota": "4,724.19",
+"url": "/public/alacenas.png"
+},
+{
+"descripcion": "ALACENA-V-ORLANDI 1,40 MT...................................",
+"id": "301131",
+"rubro": "003",
+"contado": "23,646.73",
+"entrega": "7,094.02",
+"ccuota": "6",
+"vcuota": "5,241.69",
+"url": "/public/alacenas.png"
+},
+{
+"descripcion": "ALACENA-V-ORLANDI KIT C/ALACENA COMPACTA 1.80............",
+"id": "301135",
+"rubro": "003",
+"contado": "178,810.09",
+"entrega": "53,643.03",
+"ccuota": "6",
+"vcuota": "39,636.24",
+"url": "/public/alacena.jpg"
+},
+{
+"descripcion": "ALACENA-V-ORLANDI JGO COCINA COMPACTA C/MESADA 1,80 MT......",
+"id": "301136",
+"rubro": "003",
+"contado": "13,259.51",
+"entrega": "3,977.85",
+"ccuota": "6",
+"vcuota": "2,939.19",
+"url": "/public/alacena.jpg"
+},
+{
+"descripcion": "ALACENA-V-ORLANDI JGO ALACENA BAJO TAPA 1,40 MTS",
+"id": "301139",
+"rubro": "003",
+"contado": "144,684.18",
+"entrega": "43,405.25",
+"ccuota": "6",
+"vcuota": "32,071.66",
+"url": "/public/alacena.jpg"
+},
+{
+"descripcion": "ALACENA-V-ORLANDI JGO ALACENA BAJO TAPA 1,20 MTS..........",
+"id": "301140",
+"rubro": "003",
+"contado": "128,307.98",
+"entrega": "38,492.39",
+"ccuota": "6",
+"vcuota": "28,441.60",
+"url": "/public/alacena.jpg"
+},
+{
+"descripcion": "ALACENA-V-JIT JGO. COCINA 1.60 MT...........................",
+"id": "301184",
+"rubro": "003",
+"contado": "9,218.76",
+"entrega": "2,765.63",
+"ccuota": "6",
+"vcuota": "2,043.49",
+"url": "/public/alacena.jpg"
+},
+{
+"descripcion": "ALACENA-V-TABLES MULTIUSO 2 PUERTAS 600 MM 3054.............",
+"id": "301203",
+"rubro": "003",
+"contado": "6,392.82",
+"entrega": "1,917.85",
+"ccuota": "6",
+"vcuota": "1,417.08",
+"url": "/public/alacena.jpg"
+},
+{
+"descripcion": "ALACENA-V-MAXI ORGANIZADOR .............................",
+"id": "301210",
+"rubro": "003",
+"contado": "50,070.76",
+"entrega": "15,021.23",
+"ccuota": "6",
+"vcuota": "11,099.02",
+"url": "/public/alacena.jpg"
+},
+{
+"descripcion": "ALACENA-V-JGO. DELOS 1.20 ALACENA- MESADA Y BAJOMESADA......",
+"id": "301230",
+"rubro": "003",
+"contado": "93,648.56",
+"entrega": "28,094.57",
+"ccuota": "6",
+"vcuota": "20,758.76",
+"url": "/public/alacena.jpg"
+},
+{
+"descripcion": "ALACENA-V-JGO. DELOS 1.40 ALACENA - MESADA Y BAJOMESADA.....",
+"id": "301231",
+"rubro": "003",
+"contado": "113,150.16",
+"entrega": "33,945.05",
+"ccuota": "6",
+"vcuota": "25,081.62",
+"url": "/public/alacena.jpg"
+},
+{
+"descripcion": "ALACENA-V-JGO. DELOS 1,55 MTS COCINA COMPACTA.....",
+"id": "301235",
+"rubro": "003",
+"contado": "131,692.57",
+"entrega": "39,507.77",
+"ccuota": "6",
+"vcuota": "29,191.85",
+"url": "/public/alacena.jpg"
+},
+{
+"descripcion": "ALMOHADA-STANDAR-0.70 MT.X 035 X 9.................................",
+"id": "401001",
+"rubro": "004",
+"contado": "1,130.03",
+"entrega": "339.01",
+"ccuota": "6",
+"vcuota": "250.49",
+"url": "/public/almohadas.jpg"
+},
+{
+"descripcion": "ALMOHADA-STANDAR-0.70 MT.............................",
+"id": "401002",
+"rubro": "004",
+"contado": "8,176.00",
+"entrega": "2,452.80",
+"ccuota": "6",
+"vcuota": "1,812.35",
+"url": "/public/almohadas.jpg"
+},
+{
+"descripcion": "ALMOHADA-STANDAR-SUAVEGOM CALMA 0,70 X0,40.......................",
+"id": "401004",
+"rubro": "004",
+"contado": "5,327.00",
+"entrega": "1,598.10",
+"ccuota": "6",
+"vcuota": "1,180.82",
+"url": "/public/almohadas.jpg"
+},
+{
+"descripcion": "ALMOHADA-STANDAR-CLASICA BOMBE 065 X 40........................",
+"id": "401008",
+"rubro": "004",
+"contado": "12,833.89",
+"entrega": "3,850.17",
+"ccuota": "6",
+"vcuota": "2,844.85",
+"url": "/public/almohadas.jpg"
+},
+{
+"descripcion": "ALMOHADA-STANDAR-VENTILADA 65 X 35.................................",
+"id": "401009",
+"rubro": "004",
+"contado": "12,907.85",
+"entrega": "3,872.35",
+"ccuota": "6",
+"vcuota": "2,861.24",
+"url": "/public/almohadas.jpg"
+}
+],
+"rubros": [
+{
+"codigo": "001",
+"descripcion": "ACONDICIONADOR DE AIRE"
+},
+{
+"codigo": "002",
+"descripcion": "AFEITADORA"
+},
+{
+"codigo": "003",
+"descripcion": "ALACENA"
+},
+{
+"codigo": "004",
+"descripcion": "ALMOHADA"
+},
+{
+"codigo": "005",
+"descripcion": "ANDADOR"
+},
+{
+"codigo": "006",
+"descripcion": "ANTENA DE TV"
+},
+{
+"codigo": "007",
+"descripcion": "APARADOR"
+},
+{
+"codigo": "008",
+"descripcion": "ART.INFANTILES"
+},
+{
+"codigo": "009",
+"descripcion": "ART.DE AUDIO"
+},
+{
+"codigo": "01",
+"descripcion": "PLACAR"
+},
+{
+"codigo": "010",
+"descripcion": "ASPIRADORA"
+},
+{
+"codigo": "011",
+"descripcion": "GIMNASIA"
+},
+{
+"codigo": "012",
+"descripcion": "ART.DE CAMPING"
+},
+{
+"codigo": "013",
+"descripcion": "BALANZA"
+},
+{
+"codigo": "014",
+"descripcion": "JUEGO DE BATERIA"
+},
+{
+"codigo": "015",
+"descripcion": "BATIDORA"
+},
+{
+"codigo": "016",
+"descripcion": "BIBLIOTECA"
+},
+{
+"codigo": "017",
+"descripcion": "BICICLETA"
+},
+{
+"codigo": "018",
+"descripcion": "BUTACAS"
+},
+{
+"codigo": "019",
+"descripcion": "BOTIQUIN"
+},
+{
+"codigo": "020",
+"descripcion": "CALCULADORA"
+},
+{
+"codigo": "021",
+"descripcion": "COMPUTACION"
+},
+{
+"codigo": "022",
+"descripcion": "CAFETERA"
+},
+{
+"codigo": "023",
+"descripcion": "CALEFACTOR"
+},
+{
+"codigo": "024",
+"descripcion": "CALEFON"
+},
+{
+"codigo": "025",
+"descripcion": "CALENTADOR"
+},
+{
+"codigo": "026",
+"descripcion": "CAMA"
+},
+{
+"codigo": "027",
+"descripcion": "CAMPANA"
+},
+{
+"codigo": "028",
+"descripcion": "AUDIO"
+},
+{
+"codigo": "029",
+"descripcion": "COCHE BB"
+},
+{
+"codigo": "030",
+"descripcion": "CHIFONIER"
+},
+{
+"codigo": "031",
+"descripcion": "COCINA"
+},
+{
+"codigo": "032",
+"descripcion": "COLCHON"
+},
+{
+"codigo": "033",
+"descripcion": "COMODA"
+},
+{
+"codigo": "034",
+"descripcion": "CONEXIONES"
+},
+{
+"codigo": "035",
+"descripcion": "CONSERVADORA"
+},
+{
+"codigo": "036",
+"descripcion": "CORRALITO"
+},
+{
+"codigo": "037",
+"descripcion": "CORTADORA DE CESPED"
+},
+{
+"codigo": "038",
+"descripcion": "CUCHETA"
+},
+{
+"codigo": "039",
+"descripcion": "CUNA"
+},
+{
+"codigo": "040",
+"descripcion": "CORTADORA"
+},
+{
+"codigo": "043",
+"descripcion": "DEPILADORA"
+},
+{
+"codigo": "047",
+"descripcion": "ELECTR."
+},
+{
+"codigo": "048",
+"descripcion": "ESCRITORIO"
+},
+{
+"codigo": "049",
+"descripcion": "ESPEJO"
+},
+{
+"codigo": "050",
+"descripcion": "ESTUFA"
+},
+{
+"codigo": "051",
+"descripcion": "EXPRIMIDOR"
+},
+{
+"codigo": "053",
+"descripcion": "FILMADORA"
+},
+{
+"codigo": "054",
+"descripcion": "FABRIPASTA"
+},
+{
+"codigo": "055",
+"descripcion": "FAROL"
+},
+{
+"codigo": "056",
+"descripcion": "FREEZER"
+},
+{
+"codigo": "057",
+"descripcion": "FREIDORA"
+},
+{
+"codigo": "060",
+"descripcion": "GARRAFA"
+},
+{
+"codigo": "061",
+"descripcion": "GUITARRA"
+},
+{
+"codigo": "062",
+"descripcion": "HORNO"
+},
+{
+"codigo": "063",
+"descripcion": "HER."
+},
+{
+"codigo": "064",
+"descripcion": "HELADERA"
+},
+{
+"codigo": "065",
+"descripcion": "INDUSTRIAL"
+},
+{
+"codigo": "066",
+"descripcion": "JUEGO DE MESA Y SILLAS"
+},
+{
+"codigo": "067",
+"descripcion": "JARDIN"
+},
+{
+"codigo": "068",
+"descripcion": "JUEGOS"
+},
+{
+"codigo": "069",
+"descripcion": "JUGUERA"
+},
+{
+"codigo": "072",
+"descripcion": "LAVANDIN"
+},
+{
+"codigo": "073",
+"descripcion": "LAVARROPAS"
+},
+{
+"codigo": "074",
+"descripcion": "LICUADORA"
+},
+{
+"codigo": "075",
+"descripcion": "LIVING"
+},
+{
+"codigo": "076",
+"descripcion": "LUSTRASPIRADORA"
+},
+{
+"codigo": "077",
+"descripcion": "MAQUINA FOTOGRAFICA"
+},
+{
+"codigo": "078",
+"descripcion": "MAQUINA DE ESCRIBIR"
+},
+{
+"codigo": "079",
+"descripcion": "MAQUINA DE COSER"
+},
+{
+"codigo": "080",
+"descripcion": "MEDIO DORMITORIO"
+},
+{
+"codigo": "081",
+"descripcion": "MESA DE BAR"
+},
+{
+"codigo": "082",
+"descripcion": "MESA DE COMEDOR"
+},
+{
+"codigo": "083",
+"descripcion": "MESA DE LIVING"
+},
+{
+"codigo": "084",
+"descripcion": "MESA DE LUZ"
+},
+{
+"codigo": "085",
+"descripcion": "MESA DE PLANCHAR"
+},
+{
+"codigo": "086",
+"descripcion": "MESA DE TELEFONO"
+},
+{
+"codigo": "087",
+"descripcion": "MESA DE"
+},
+{
+"codigo": "088",
+"descripcion": "MESA DE CAMPING"
+},
+{
+"codigo": "089",
+"descripcion": "MESADA"
+},
+{
+"codigo": "091",
+"descripcion": "MODULAR"
+},
+{
+"codigo": "092",
+"descripcion": "MULTIPROCESADORA"
+},
+{
+"codigo": "093",
+"descripcion": "MOTOS"
+},
+{
+"codigo": "095",
+"descripcion": "OLLAS"
+},
+{
+"codigo": "097",
+"descripcion": "PAVA"
+},
+{
+"codigo": "098",
+"descripcion": "PERCHERO"
+},
+{
+"codigo": "099",
+"descripcion": "PILETA"
+},
+{
+"codigo": "1",
+"descripcion": "MOTA"
+},
+{
+"codigo": "100",
+"descripcion": "PLACARD"
+},
+{
+"codigo": "101",
+"descripcion": "PLANCHA"
+},
+{
+"codigo": "103",
+"descripcion": "PROD. MUSICALES"
+},
+{
+"codigo": "105",
+"descripcion": "RADIO"
+},
+{
+"codigo": "106",
+"descripcion": "MICRO AUDIO"
+},
+{
+"codigo": "108",
+"descripcion": "REPISA"
+},
+{
+"codigo": "109",
+"descripcion": "REPOSERA"
+},
+{
+"codigo": "110",
+"descripcion": "ROPERO"
+},
+{
+"codigo": "111",
+"descripcion": "RODADOS INFANTILES"
+},
+{
+"codigo": "112",
+"descripcion": "SALUD"
+},
+{
+"codigo": "113",
+"descripcion": "SECADOR DE CABELLOS"
+},
+{
+"codigo": "114",
+"descripcion": "SECARROPAS"
+},
+{
+"codigo": "115",
+"descripcion": "SILLAS"
+},
+{
+"codigo": "116",
+"descripcion": "SILLETAS"
+},
+{
+"codigo": "117",
+"descripcion": "SILLON"
+},
+{
+"codigo": "118",
+"descripcion": "SOMBRILLA"
+},
+{
+"codigo": "121",
+"descripcion": "TELEVISOR"
+},
+{
+"codigo": "122",
+"descripcion": "TERMOTANQUE"
+},
+{
+"codigo": "123",
+"descripcion": "TELEFONO"
+},
+{
+"codigo": "124",
+"descripcion": "TURBO"
+},
+{
+"codigo": "125",
+"descripcion": "VIDEO"
+},
+{
+"codigo": "127",
+"descripcion": "ART."
+},
+{
+"codigo": "128",
+"descripcion": "SERVICIOS"
+},
+{
+"codigo": "129",
+"descripcion": "VENTILADOR"
+},
+{
+"codigo": "130",
+"descripcion": "MC."
+},
+{
+"codigo": "131",
+"descripcion": "BLANQUERIA"
+},
+{
+"codigo": "132",
+"descripcion": "PLASTICOS"
+},
+{
+"codigo": "135",
+"descripcion": "ACCESORIOS"
+},
+{
+"codigo": "140",
+"descripcion": "CALZADOS"
+},
+{
+"codigo": "150",
+"descripcion": "RELOJ"
+},
+{
+"codigo": "160",
+"descripcion": "SPRAYETTE"
+},
+{
+"codigo": "170",
+"descripcion": "ELECTRIC."
+},
+{
+"codigo": "200",
+"descripcion": "P.ELECTRONICOS"
+},
+{
+"codigo": "201",
+"descripcion": "P.ELECTRICOS"
+},
+{
+"codigo": "202",
+"descripcion": "VARIOS"
+},
+{
+"codigo": "203",
+"descripcion": "FABRIPASTA"
+},
+{
+"codigo": "204",
+"descripcion": "DESCUENTO GENERAL"
+},
+{
+"codigo": "210",
+"descripcion": "PROD."
+},
+{
+"codigo": "250",
+"descripcion": "VEHICULO"
+},
+{
+"codigo": "300",
+"descripcion": "."
+},
+{
+"codigo": "302",
+"descripcion": "."
+},
+{
+"codigo": "630",
+"descripcion": "MOTTA"
+},
+{
+"codigo": "935",
+"descripcion": ".."
+},
+{
+"codigo": "999",
+"descripcion": "GARANTIA EXTENDIDA"
+},
+{
+"codigo": "viic",
+"descripcion": "vic1ky"
+},
+{
+"codigo": "�",
+"descripcion": "PLACARD"
+}
+]
+}

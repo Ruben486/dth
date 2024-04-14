@@ -1,0 +1,718 @@
+{
+    "productos": [
+        {
+        "descripcion": "ACONDICIONADOR DE AIRE-.-ELECTRA 32TC  3200W..........",
+        "gid": "101020",
+        "contado": "490,000.00",
+        "entrega": "147,000.00",
+        "ccuota": "6",
+        "vcuota": "108,616.67"
+        },
+        {
+        "descripcion": "ACONDICIONADOR DE AIRE-.-WESTINGHOUSE 5500 FRIG............................",
+        "gid": "101021",
+        "contado": "61,985.81",
+        "entrega": "18,595.74",
+        "ccuota": "6",
+        "vcuota": "13,740.19"
+        },
+        {
+        "descripcion": "ACONDICIONADOR DE AIRE-.-AUDIVIC SPLIT 3000 F/C......................",
+        "gid": "101103",
+        "contado": "22,400.73",
+        "entrega": "6,720.22",
+        "ccuota": "6",
+        "vcuota": "4,965.50"
+        },
+        {
+        "descripcion": "ACONDICIONADOR DE AIRE--SUAVEGOM MERIT 1,40 X 0,24.......................",
+        "gid": "102320",
+        "contado": "26,038.04",
+        "entrega": "7,811.41",
+        "ccuota": "6",
+        "vcuota": "5,771.77"
+        },
+        {
+        "descripcion": "AFEITADORA-PHILIPS- HQ-6907.16................................",
+        "gid": "201003",
+        "contado": "2,426.75",
+        "entrega": "728.02",
+        "ccuota": "6",
+        "vcuota": "537.93"
+        },
+        {
+        "descripcion": "AFEITADORA-PHILIPS-CORTADORA CABELLO HC3505/15.......................",
+        "gid": "201005",
+        "contado": "18,438.00",
+        "entrega": "5,531.40",
+        "ccuota": "6",
+        "vcuota": "4,087.09"
+        },
+        {
+        "descripcion": "AFEITADORA-V-EVER BEAUTY EB-1486...............................",
+        "gid": "202001",
+        "contado": "13,621.61",
+        "entrega": "4,086.48",
+        "ccuota": "6",
+        "vcuota": "3,019.46"
+        },
+        {
+        "descripcion": "AFEITADORA-V-PHILIPS QC5115 CORTADORA DE CABELLO",
+        "gid": "202023",
+        "contado": "1,579.54",
+        "entrega": "473.86",
+        "ccuota": "6",
+        "vcuota": "350.13"
+        },
+        {
+        "descripcion": "AFEITADORA-V-CORTADOR DE CABELLO HC 9-100......................",
+        "gid": "202031",
+        "contado": "2,559.73",
+        "entrega": "767.92",
+        "ccuota": "6",
+        "vcuota": "567.41"
+        },
+        {
+        "descripcion": "AFEITADORA-V-CORTADOR DE CABELLO HC10 100..................",
+        "gid": "202032",
+        "contado": "3,097.36",
+        "entrega": "929.21",
+        "ccuota": "6",
+        "vcuota": "686.58"
+        },
+        {
+        "descripcion": "AFEITADORA-V-GA.MA CORTADORA DE PELO SE PRO 9 POT.",
+        "gid": "202036",
+        "contado": "4,623.74",
+        "entrega": "1,387.12",
+        "ccuota": "6",
+        "vcuota": "1,024.93"
+        },
+        {
+        "descripcion": "AFEITADORA-V-OSTER CORTA PELO CLPPER MX PRO......",
+        "gid": "202040",
+        "contado": "7,064.85",
+        "entrega": "2,119.45",
+        "ccuota": "6",
+        "vcuota": "1,566.04"
+        },
+        {
+        "descripcion": "AFEITADORA-V-DUCATI CORTADORA DE CABELLO HC709...............",
+        "gid": "202042",
+        "contado": "3,918.10",
+        "entrega": "1,175.43",
+        "ccuota": "6",
+        "vcuota": "868.51"
+        },
+        {
+        "descripcion": "AFEITADORA-V-OSTER CORTADORA DE CABELLO ....................",
+        "gid": "202045",
+        "contado": "46,445.90",
+        "entrega": "13,933.77",
+        "ccuota": "6",
+        "vcuota": "10,295.51"
+        },
+        {
+        "descripcion": "AFEITADORA-V-NAVAJA LEO PAPPARELLA...........................",
+        "gid": "202100",
+        "contado": "3,704.32",
+        "entrega": "1,111.30",
+        "ccuota": "6",
+        "vcuota": "821.12"
+        },
+        {
+        "descripcion": "ALACENA-V-MOGETTA KIT COCINA 4 PTAS.........................",
+        "gid": "301001",
+        "contado": "122,155.55",
+        "entrega": "36,646.67",
+        "ccuota": "6",
+        "vcuota": "27,077.81"
+        },
+        {
+        "descripcion": "ALACENA-V-MOGETTA KIT COCINA 3 PTAS...........",
+        "gid": "301002",
+        "contado": "103,452.33",
+        "entrega": "31,035.70",
+        "ccuota": "6",
+        "vcuota": "22,931.93"
+        },
+        {
+        "descripcion": "ALACENA-V-MAXI KIT COCINA 3 PUERTAS 3 CAJ",
+        "gid": "301003",
+        "contado": "8,116.21",
+        "entrega": "2,434.86",
+        "ccuota": "6",
+        "vcuota": "1,799.09"
+        },
+        {
+        "descripcion": "ALACENA-V-MAXI KIT COCINA 7 PUERTAS 3 CAJ...................",
+        "gid": "301004",
+        "contado": "13,962.38",
+        "entrega": "4,188.71",
+        "ccuota": "6",
+        "vcuota": "3,094.99"
+        },
+        {
+        "descripcion": "ALACENA-V-MAXI KIT COCINA 5 PUERTAS 3 CAJ...................",
+        "gid": "301005",
+        "contado": "10,563.56",
+        "entrega": "3,169.07",
+        "ccuota": "6",
+        "vcuota": "2,341.59"
+        },
+        {
+        "descripcion": "ALACENA-V-MOGETTA ALAC.MES. BAJO 1,20 MTS",
+        "gid": "301006",
+        "contado": "199,357.91",
+        "entrega": "59,807.37",
+        "ccuota": "6",
+        "vcuota": "44,191.00"
+        },
+        {
+        "descripcion": "ALACENA-V-MOGETTA ALAC.MES. BAJO 1,40 MTS",
+        "gid": "301007",
+        "contado": "218,131.13",
+        "entrega": "65,439.34",
+        "ccuota": "6",
+        "vcuota": "48,352.40"
+        },
+        {
+        "descripcion": "ALACENA-V-MOGETTA ALAC.MES. BAJO 1,60 MTS................",
+        "gid": "301008",
+        "contado": "259,535.15",
+        "entrega": "77,860.54",
+        "ccuota": "6",
+        "vcuota": "57,530.29"
+        },
+        {
+        "descripcion": "ALACENA-V-MOGETTA C. VIDRIO 1,20 MTS.................",
+        "gid": "301009",
+        "contado": "51,052.65",
+        "entrega": "15,315.80",
+        "ccuota": "6",
+        "vcuota": "11,316.67"
+        },
+        {
+        "descripcion": "ALACENA-V-MOGETTA C. VIDRIO 1,40 MTS........................",
+        "gid": "301010",
+        "contado": "57,941.02",
+        "entrega": "17,382.31",
+        "ccuota": "6",
+        "vcuota": "12,843.59"
+        },
+        {
+        "descripcion": "ALACENA-V-MOGETTA C. VIDRIO 1,60 MTS.................",
+        "gid": "301011",
+        "contado": "63,681.02",
+        "entrega": "19,104.31",
+        "ccuota": "6",
+        "vcuota": "14,115.96"
+        },
+        {
+        "descripcion": "ALACENA-V-JGO MOGETTA PREMIUM 1.60 ALACENA, BAJO, MESADA..",
+        "gid": "301015",
+        "contado": "277,363.11",
+        "entrega": "83,208.93",
+        "ccuota": "6",
+        "vcuota": "61,482.16"
+        },
+        {
+        "descripcion": "ALACENA-V-ESCOBERO MOGETTA PREMIUM..........................",
+        "gid": "301020",
+        "contado": "94,357.15",
+        "entrega": "28,307.15",
+        "ccuota": "6",
+        "vcuota": "20,915.84"
+        },
+        {
+        "descripcion": "ALACENA-V-PLATINUM KIT DE COCINA 3015.......................",
+        "gid": "301040",
+        "contado": "10,909.02",
+        "entrega": "3,272.70",
+        "ccuota": "6",
+        "vcuota": "2,418.17"
+        },
+        {
+        "descripcion": "ALACENA-V-NESTOR ALACENA BAJO 1,60 MTS...............",
+        "gid": "301112",
+        "contado": "18,064.52",
+        "entrega": "5,419.36",
+        "ccuota": "6",
+        "vcuota": "4,004.30"
+        },
+        {
+        "descripcion": "ALACENA-V-NESTOR ALACENA 1.60 MTS...........................",
+        "gid": "301115",
+        "contado": "8,738.45",
+        "entrega": "2,621.54",
+        "ccuota": "6",
+        "vcuota": "1,937.02"
+        },
+        {
+        "descripcion": "ALACENA-V-ORLANDI KIT C ALACENA INC.1,20 MTS...........",
+        "gid": "301126",
+        "contado": "9,764.42",
+        "entrega": "2,929.33",
+        "ccuota": "6",
+        "vcuota": "2,164.45"
+        },
+        {
+        "descripcion": "ALACENA-V-ORLANDI MULTIFUNCION 2 PUERTAS 400...............",
+        "gid": "301128",
+        "contado": "44,145.36",
+        "entrega": "13,243.61",
+        "ccuota": "6",
+        "vcuota": "9,785.56"
+        },
+        {
+        "descripcion": "ALACENA-V-ORLANDI MULTIFUNCION 1 PUERTA 401.............",
+        "gid": "301129",
+        "contado": "35,141.86",
+        "entrega": "10,542.56",
+        "ccuota": "6",
+        "vcuota": "7,789.78"
+        },
+        {
+        "descripcion": "ALACENA-V-ORLANDI 1,20 MT...................................",
+        "gid": "301130",
+        "contado": "21,312.14",
+        "entrega": "6,393.64",
+        "ccuota": "6",
+        "vcuota": "4,724.19"
+        },
+        {
+        "descripcion": "ALACENA-V-ORLANDI 1,40 MT...................................",
+        "gid": "301131",
+        "contado": "23,646.73",
+        "entrega": "7,094.02",
+        "ccuota": "6",
+        "vcuota": "5,241.69"
+        }
+        ],    
+    "usuario": [
+        {
+            "nombre": "Diego Soria",
+            "email": "diegosoria@gmail.com",
+            "contraseña": "1234",
+            "id": "1"
+        },
+        {
+            "nombre": "Adriana Pereyra",
+            "email": "ap@gmail.com",
+            "contraseña": "12345",
+            "id": "2"
+        }
+    ],
+    "producto": [
+        {
+            "url": "../assets/img/home/skill.png",
+            "categoria": "starwars",
+            "nombre": "Producto XYZ",
+            "precio": "600",
+            "descuento": "5",
+            "descripcion": "Taza StarWars (Impresión 3D)",
+            "id": "8ada8638-d8d9-45e4-b64a-71f44081ce85"
+        },
+        {
+            "url": "../assets/img/home/consola.png",
+            "categoria": "consolas",
+            "nombre": "Control XYZ",
+            "precio": "700",
+            "descuento": "10",
+            "descripcion": "Control (joystick impresión 3D)",
+            "id": "90c7afa4-4998-4c0c-b43e-a6b2283a8239"
+        },
+        {
+            "url": "../assets/img/home/diverso.png",
+            "categoria": "diversos",
+            "nombre": "Camisa Atari",
+            "precio": "900",
+            "descuento": "10",
+            "descripcion": "Camisa Atari de algodón",
+            "id": "a46502e9-c502-43bc-888e-8324b5fd96ee"
+        },
+        {
+            "url": "../assets/img/home/skill (5).png",
+            "categoria": "starwars",
+            "nombre": "Producto XYZ",
+            "precio": "1500",
+            "descuento": "0",
+            "descripcion": "Cabeza Star Wars (Impresión 3D)",
+            "id": "b8becc3d-2a1c-427d-a6b9-856b919507ad"
+        },
+        {
+            "url": "../assets/img/home/consola1.png",
+            "categoria": "consolas",
+            "nombre": "Control y Consola XYZ",
+            "precio": "3500",
+            "descuento": "10",
+            "descripcion": "Consola y control",
+            "id": "cf256149-8cfe-4ece-aa56-2bd246967373"
+        },
+        {
+            "url": "../assets/img/home/diverso1.png",
+            "categoria": "diversos",
+            "nombre": "Camisa SNES",
+            "precio": "1000",
+            "descuento": "5",
+            "descripcion": "Camisa SNES de algodon",
+            "id": "abcfaa27-7720-4fb8-8eaf-8e42f8467830"
+        },
+        {
+            "url": "../assets/img/home/skill (1).png",
+            "categoria": "starwars",
+            "nombre": "Producto XYZ",
+            "precio": "760",
+            "descuento": "0",
+            "descripcion": "Producto impreso (3D)",
+            "id": "3cd94196-19fc-4ee1-a740-68ed10e25cf8"
+        },
+        {
+            "url": "../assets/img/home/consola2.png",
+            "categoria": "consolas",
+            "nombre": "Consola XYZ",
+            "precio": "1340",
+            "descuento": "0",
+            "descripcion": "Consola de videojuegos",
+            "id": "df0b13cb-d0c2-4c73-acc1-0f620f7862bc"
+        },
+        {
+            "url": "../assets/img/home/diverso3.png",
+            "categoria": "diversos",
+            "nombre": "Sonic 3D",
+            "precio": "900",
+            "descuento": "0",
+            "descripcion": "Producto impreso (3D) de Sonic",
+            "id": "d91625ae-f7a6-48b9-b86e-7029c07ce50b"
+        },
+        {
+            "url": "../assets/img/home/skill (2).png",
+            "categoria": "starwars",
+            "nombre": "Producto XYZ",
+            "precio": "1100",
+            "descuento": "25",
+            "descripcion": "Producto impreso (3D) de Star Wars",
+            "id": "3715383b-053d-4c57-ac87-189ca8f6d557"
+        },
+        {
+            "url": "../assets/img/home/consola3.png",
+            "categoria": "consolas",
+            "nombre": "Comandos XYZ",
+            "precio": "900",
+            "descuento": "0",
+            "descripcion": "Productos impresos en 3D",
+            "id": "5399dbaf-84e0-4ad9-8882-14500c4bad93"
+        },
+        {
+            "url": "../assets/img/home/diverso4.png",
+            "categoria": "diversos",
+            "nombre": "Producto XYZ",
+            "precio": "600",
+            "descuento": "0",
+            "descripcion": "Producto impreso (3D)",
+            "id": "bc9a2bdf-0426-4c1d-9131-e451efd67f74"
+        },
+        {
+            "url": "../assets/img/home/skill (3).png",
+            "categoria": "starwars",
+            "nombre": "Bebe Yoda Yedi",
+            "precio": "2480",
+            "descuento": "10",
+            "descripcion": "Bebe Yoda Yedi impreso en 3D - Star Wars",
+            "id": "1251cf3b-57a7-4720-b9de-75025ec51d0a"
+        },
+        {
+            "url": "../assets/img/home/consola4.png",
+            "categoria": "consolas",
+            "nombre": "Consola XYZ",
+            "precio": "700",
+            "descuento": "0",
+            "descripcion": "Producto impreso 3D",
+            "id": "0c3fbace-db3b-4576-9699-955d424a048a"
+        },
+        {
+            "url": "../assets/img/home/diverso2.png",
+            "categoria": "diversos",
+            "nombre": "Realidad Aumentada",
+            "precio": "5600",
+            "descuento": "10",
+            "descripcion": "Lentes de juego y realidad aumentada",
+            "id": "d0203f0a-789f-4b86-afcb-9c0fd7a0a48d"
+        },
+        {
+            "url": "../assets/img/home/skill (4).png",
+            "categoria": "starwars",
+            "nombre": "Darth Vader 3D",
+            "precio": "3500",
+            "descuento": "5",
+            "descripcion": "Producto impreso en 3D - Darth Vader de Star Wars",
+            "id": "3d7235a8-9743-456b-b445-831a1487dae3"
+        },
+        {
+            "url": "../assets/img/home/consola5.png",
+            "categoria": "consolas",
+            "nombre": "Game Boy Color",
+            "precio": "4600",
+            "descuento": "0",
+            "descripcion": "Game Boy de colección ",
+            "id": "512257db-dcaa-4d92-8c16-573588514a81"
+        },
+        {
+            "url": "../assets/img/home/diverso5.png",
+            "categoria": "diversos",
+            "nombre": "Pikachu Peluche",
+            "precio": "3200",
+            "descuento": "0",
+            "descripcion": "Peluche de Pikachu tamaño mediano",
+            "id": "8b29f1a5-7973-4adb-a323-b692149188de"
+        }
+    ],
+    "mensaje": [],
+    "pedido": [
+        {
+            "contenido": [
+                {
+                    "id": "b8becc3d-2a1c-427d-a6b9-856b919507ad",
+                    "productoDetalle": {
+                        "url": "../assets/img/home/skill (5).png",
+                        "categoria": "starwars",
+                        "nombre": "Producto XYZ",
+                        "precio": "1500",
+                        "descuento": "0",
+                        "descripcion": "Cabeza Star Wars (Impresión 3D)",
+                        "cantidad": 3
+                    }
+                },
+                {
+                    "id": "3715383b-053d-4c57-ac87-189ca8f6d557",
+                    "productoDetalle": {
+                        "url": "../assets/img/home/skill (2).png",
+                        "categoria": "starwars",
+                        "nombre": "Producto XYZ",
+                        "precio": "1100",
+                        "descuento": "25",
+                        "descripcion": "Producto impreso (3D) de Star Wars",
+                        "cantidad": 2
+                    }
+                }
+            ],
+            "comprador": {
+                "nombre": "cjsdcs",
+                "apellido": "dcsdc",
+                "direccion": "csdcsd",
+                "telefono": "dscsd",
+                "email": "diegosoria@gmail.com",
+                "numTarjeta": "23423453",
+                "pinTarjeta": "2345",
+                "comentario": "cdscsdc"
+            },
+            "costo": 6150,
+            "id": "9662eb2e-0839-4f39-ab6d-7d73ca642d24"
+        },
+        {
+            "contenido": [
+                {
+                    "id": "1251cf3b-57a7-4720-b9de-75025ec51d0a",
+                    "productoDetalle": {
+                        "url": "../assets/img/home/skill (3).png",
+                        "categoria": "starwars",
+                        "nombre": "Bebe Yoda Yedi",
+                        "precio": "2480",
+                        "descuento": "10",
+                        "descripcion": "Bebe Yoda Yedi impreso en 3D - Star Wars",
+                        "cantidad": 1
+                    }
+                },
+                {
+                    "id": "3715383b-053d-4c57-ac87-189ca8f6d557",
+                    "productoDetalle": {
+                        "url": "../assets/img/home/skill (2).png",
+                        "categoria": "starwars",
+                        "nombre": "Producto XYZ",
+                        "precio": "1100",
+                        "descuento": "25",
+                        "descripcion": "Producto impreso (3D) de Star Wars",
+                        "cantidad": 1
+                    }
+                },
+                {
+                    "id": "5399dbaf-84e0-4ad9-8882-14500c4bad93",
+                    "productoDetalle": {
+                        "url": "../assets/img/home/consola3.png",
+                        "categoria": "consolas",
+                        "nombre": "Comandos XYZ",
+                        "precio": "900",
+                        "descuento": "0",
+                        "descripcion": "Productos impresos en 3D",
+                        "cantidad": 1
+                    }
+                },
+                {
+                    "id": "df0b13cb-d0c2-4c73-acc1-0f620f7862bc",
+                    "productoDetalle": {
+                        "url": "../assets/img/home/consola2.png",
+                        "categoria": "consolas",
+                        "nombre": "Consola XYZ",
+                        "precio": "1340",
+                        "descuento": "0",
+                        "descripcion": "Consola de videojuegos",
+                        "cantidad": 6
+                    }
+                }
+            ],
+            "comprador": {
+                "nombre": "Diego",
+                "apellido": "Soria",
+                "direccion": "alonso",
+                "telefono": "6546745",
+                "email": "diegosoria@gmail.com",
+                "numTarjeta": "3453456576",
+                "pinTarjeta": "2324",
+                "comentario": "dsdvsd"
+            },
+            "costo": 5297,
+            "id": "1887dfb7-fe10-4f2c-8566-2359c2c1bffb"
+        },
+        {
+            "contenido": [
+                {
+                    "id": "df0b13cb-d0c2-4c73-acc1-0f620f7862bc",
+                    "productoDetalle": {
+                        "url": "../assets/img/home/consola2.png",
+                        "categoria": "consolas",
+                        "nombre": "Consola XYZ",
+                        "precio": "1340",
+                        "descuento": "0",
+                        "descripcion": "Consola de videojuegos",
+                        "cantidad": 1
+                    }
+                },
+                {
+                    "id": "cf256149-8cfe-4ece-aa56-2bd246967373",
+                    "productoDetalle": {
+                        "url": "../assets/img/home/consola1.png",
+                        "categoria": "consolas",
+                        "nombre": "Control y Consola XYZ",
+                        "precio": "3500",
+                        "descuento": "10",
+                        "descripcion": "Consola y control",
+                        "cantidad": 1
+                    }
+                },
+                {
+                    "id": "b8becc3d-2a1c-427d-a6b9-856b919507ad",
+                    "productoDetalle": {
+                        "url": "../assets/img/home/skill (5).png",
+                        "categoria": "starwars",
+                        "nombre": "Producto XYZ",
+                        "precio": "1500",
+                        "descuento": "0",
+                        "descripcion": "Cabeza Star Wars (Impresión 3D)",
+                        "cantidad": 1
+                    }
+                }
+            ],
+            "comprador": {
+                "nombre": "Diego",
+                "apellido": "Soria",
+                "direccion": "alonso",
+                "telefono": "6546745",
+                "email": "diegosoria@gmail.com",
+                "numTarjeta": "3453456576",
+                "pinTarjeta": "2324",
+                "comentario": "gfbfgbfg"
+            },
+            "costo": 5990,
+            "id": "ce65ecb8-73ee-4b7e-b818-a276cfd4a0fd"
+        },
+        {
+            "contenido": [
+                {
+                    "id": "3715383b-053d-4c57-ac87-189ca8f6d557",
+                    "productoDetalle": {
+                        "url": "../assets/img/home/skill (2).png",
+                        "categoria": "starwars",
+                        "nombre": "Producto XYZ",
+                        "precio": "1100",
+                        "descuento": "25",
+                        "descripcion": "Producto impreso (3D) de Star Wars",
+                        "cantidad": 3
+                    }
+                },
+                {
+                    "id": "5399dbaf-84e0-4ad9-8882-14500c4bad93",
+                    "productoDetalle": {
+                        "url": "../assets/img/home/consola3.png",
+                        "categoria": "consolas",
+                        "nombre": "Comandos XYZ",
+                        "precio": "900",
+                        "descuento": "0",
+                        "descripcion": "Productos impresos en 3D",
+                        "cantidad": 1
+                    }
+                },
+                {
+                    "id": "8b29f1a5-7973-4adb-a323-b692149188de",
+                    "productoDetalle": {
+                        "url": "../assets/img/home/diverso5.png",
+                        "categoria": "diversos",
+                        "nombre": "Pikachu Peluche",
+                        "precio": "3200",
+                        "descuento": "0",
+                        "descripcion": "Peluche de Pikachu tamaño mediano",
+                        "cantidad": 1
+                    }
+                },
+                {
+                    "id": "d91625ae-f7a6-48b9-b86e-7029c07ce50b",
+                    "productoDetalle": {
+                        "url": "../assets/img/home/diverso3.png",
+                        "categoria": "diversos",
+                        "nombre": "Sonic 3D",
+                        "precio": "900",
+                        "descuento": "0",
+                        "descripcion": "Producto impreso (3D) de Sonic",
+                        "cantidad": 3
+                    }
+                },
+                {
+                    "id": "a46502e9-c502-43bc-888e-8324b5fd96ee",
+                    "productoDetalle": {
+                        "url": "../assets/img/home/diverso.png",
+                        "categoria": "diversos",
+                        "nombre": "Camisa Atari",
+                        "precio": "900",
+                        "descuento": "15",
+                        "descripcion": "Camisa Atari de algodón",
+                        "cantidad": 1
+                    }
+                },
+                {
+                    "id": "df0b13cb-d0c2-4c73-acc1-0f620f7862bc",
+                    "productoDetalle": {
+                        "url": "../assets/img/home/consola2.png",
+                        "categoria": "consolas",
+                        "nombre": "Consola XYZ",
+                        "precio": "1340",
+                        "descuento": "0",
+                        "descripcion": "Consola de videojuegos",
+                        "cantidad": 2
+                    }
+                }
+            ],
+            "comprador": {
+                "nombre": "Diego",
+                "apellido": "Soria",
+                "direccion": "alonso",
+                "telefono": "6546745",
+                "email": "diegosoria@gmail.com",
+                "numTarjeta": "3453456576",
+                "pinTarjeta": "2324",
+                "comentario": "bfgfgbfg"
+            },
+            "costo": 12765,
+            "id": "90cdfc81-b121-4f5e-a8f0-21909a1f8e61"
+        }
+    ]
+        
+}

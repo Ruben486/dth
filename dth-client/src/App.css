@@ -1,0 +1,14 @@
+.card {
+    border: 1px solid rgb(75, 72, 72)
+}
+.box-producto {
+    border: 1px solid rgb(94, 86, 86);
+    
+}
+.img-producto {
+    max-width: 620px;
+    max-height: 580px;
+}
+.det-prod-s-der h3,p {
+    line-height: 45px;
+}

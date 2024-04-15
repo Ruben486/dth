@@ -11,7 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
-env
+
 .env
 
 # Editor directories and files
@@ -24,5 +24,4 @@ env
 *.njsproj
 *.sln
 *.sw?
-.env
 

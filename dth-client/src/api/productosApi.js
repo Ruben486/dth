@@ -1,6 +1,6 @@
 import { API_URL } from "../config/server.js";
 const url = API_URL + '/productos/';
-
+console.log(url)
 export const getProductos = async () => {
   try {
     const response = await fetch(url)

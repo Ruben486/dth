@@ -3,7 +3,7 @@ import MotionPromo1 from "./MotionPromo1"
 const Promo1 = () => {
   return (
     <>
-      <div className="promo1 w-full flex flex-row gap-2 justify-around my-4">
+      <div className="promo1 w-full flex gap-2 my-4 ">
         <MotionPromo1 imagen="/img1_promo1.jpg" />
         <MotionPromo1 imagen="/img2_promo1.jpg" /> 
         <MotionPromo1 imagen="/img3_promo1.jpg" /> 

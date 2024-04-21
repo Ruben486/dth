@@ -1,13 +1,14 @@
-import Hero from "./Hero";
+import  {datos}  from "../config/datosPagina";
 
 const Navbar = () => {
-  console.log("renderizo Navbar");
+  
   return (
-      <nav className="nav bg-slate-900 min-h-[50px] flex flex-row justify-around align-middle gap-6 py-5 sticky top-0 w-full">
+      <nav className="navbar bg-slate-900 min-h-[50px] flex flex-row justify-around align-middle gap-6 py-5 sticky top-0 w-full">
         <div className="box-img">
-          <img src="/logo.jpg" alt="" className="logo" />
+          <img src={datos.logo} alt="" className="logo" />
         </div>
-        <h1 className="text-4xl text-center nav-brand">DE TODO HOGAR</h1>
+        <h1 className="text-4xl text-center nav-brand">{datos.empresa}
+        </h1>
       </nav>
   );
 };

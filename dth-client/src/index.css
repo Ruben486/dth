@@ -17,7 +17,8 @@ body {
   font-style: normal;
   min-width: 320px;
   min-height: 100vh;
-  background: #242424;
+  background: #242424; 
+  /* background: #eee; */
   color: whitesmoke;
 }
 
@@ -25,15 +26,17 @@ body {
   width: 50px;
   height: 50px;
 }
-
+.navbar {
+  z-index: 1;
+}
 .nav-brand {
   color: rgb(62, 130, 233);
   font-family: "Syncopate", sans-serif;
   font-weight: bold;
 }
 .card-producto {
+  max-width: 300px;
   border: 1px solid rgba(135, 136, 138, 0.377);
-
   transition: all 1s ease-out;
 }
 .card-producto:hover {
@@ -64,6 +67,7 @@ body {
   object-fit:cover;
   border: 1px solid rgb(26, 148, 26);
 }
+
 .img-promo1 {
   height: 230px;
   padding: 1px;

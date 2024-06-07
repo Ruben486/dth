@@ -8,8 +8,8 @@ const url = API_URL + "/productos/";
 
 export const getProductos = async () => {
   try {
-    const res = await axios.get(url);
-    return res.data;
+    const { data}  = await axios.get(url);
+    return data
   } catch (error) {
     console.error(error);
   }
@@ -17,9 +17,8 @@ export const getProductos = async () => {
 
 export const getProductoId = async (id) => {
   try {
-    const resp = await axios.get(url + id);
-    
-    return resp.data
+    const { data } = await axios.get(url + id);
+    return data
   } catch (error) {
     console.log(error);
   }

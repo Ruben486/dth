@@ -1,18 +1,20 @@
 import { useParams, Link } from "react-router-dom";
-import { useQuery } from "@tanstack/react-query";
-import { getProductoId } from "../api/productosAxios";
 import Spinner from "../UI/Spinner";
+import { usetProductoId } from "../Hooks/useProductos";
 
 
 const DetalleProducto = () => {
   const params = useParams();
   
-  const { isPending, data, isError, error } = useQuery({
+ /*  const { isPending, data, isError, error } = useQuery({
     queryKey: ["producto", params.id],
     queryFn: () => getProductoId(params.id),
     staleTime: 60000,
     keepPreviusData: true,
-  });
+    enabled: !!params.id
+  }); */
+
+  const { isPending, data, isError, error } = usetProductoId(params.id)
 
   if (isPending) {
     return <Spinner />;

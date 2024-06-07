@@ -13,4 +13,11 @@ server.use(
     origin: "*",
   })
 );
+server.use((req,res,next) => {
+  const cacheTime = 60 * 60 *24
+  res.set({
+    'cache-control': `max-age${cacheTime}`
+  });
+  next();
+});
 server.listen(port);

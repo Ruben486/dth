@@ -4,24 +4,27 @@ import { useQuery, useQueryClient } from "@tanstack/react-query";
 import Spinner from "../UI/Spinner";
 import CargarImagen from "./CargarImagen";
 import { getProductoId, getProductos } from "../api/productosAxios";
+import { useProductos, useprefetchProductos } from "../Hooks/useProductos";
 const Promo1 = lazy(() => import("./Promo1"));
 
 const RenderProductos = () => {
   const navigate = useNavigate();
-  const queryClient = useQueryClient();
+  // const queryClient = useQueryClient();
 
-  const { isPending, data, isError, isSuccess, error } = useQuery({
+  const { isPending, data, isError, isSuccess, error } = useProductos();
+
+  /* const { isPending, data, isError, isSuccess, error } = useQuery({
     queryKey: ["productos"],
     queryFn: getProductos,
     staleTime: 60000,
     keepPreviusData: true,
-  });
+  }); */
 
   const editarProducto = (id) => {
     navigate(`/productos/${id}`);
   };
 
-  isSuccess &&
+  /* isSuccess &&
     data.forEach((producto) => {
       queryClient.prefetchQuery({
         queryKey: ["producto", producto.id],
@@ -29,8 +32,13 @@ const RenderProductos = () => {
         staleTime: 60000,
         keepPreviusData: true,
       });
+    }); */
+
+  isSuccess &&
+    data.forEach((producto) => {
+      useprefetchProductos(producto.id);
     });
- 
+
   if (isPending) {
     return <Spinner />;
   }
@@ -40,7 +48,6 @@ const RenderProductos = () => {
 
   return (
     <>
-      
       <div className="container m-10 ">
         <h4 className="text-sky-300 m-4 text-center text-3xl flex flex-row">
           Ofertas de la Semana

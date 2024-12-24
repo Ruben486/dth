@@ -4,12 +4,12 @@ import axios from "axios";
 /* const productosApi = axios.create({
   url: API_URL + "/productos/",
 }) */
-// const url = API_URL + "/productos/";
+const url = API_URL + "/productos/";
 // const url = "https://dth.onrender.com"  + "/productos/";
-const url = "http://localhost:3000" + "/productos/";
+// const url = "http://localhost:3000" + "/productos/";
 export const getProductos = async () => {
   try {
-    const { data}  = await axios.get(url);
+    const { data} = await axios.get(url);
     return data
   } catch (error) {
     console.error(error);
@@ -18,6 +18,7 @@ export const getProductos = async () => {
 
 export const getProductoId = async (id) => {
   try {
+    console.log(id)
     const { data } = await axios.get(url + id);
     return data
   } catch (error) {

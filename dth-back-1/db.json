@@ -2,7 +2,7 @@
 "productos": [
 {
 "descripcion": "ACONDICIONADOR DE AIRE-.-ELECTRA 32TC  3200W..........",
-"gid": "101020",
+"id": "101020",
 "rubro": "001",
 "contado": "490,000.00",
 "entrega": "147,000.00",
@@ -12,7 +12,7 @@
 },
 {
 "descripcion": "ACONDICIONADOR DE AIRE-.-WESTINGHOUSE 5500 FRIG............................",
-"gid": "101021",
+"id": "101021",
 "rubro": "001",
 "contado": "61,985.81",
 "entrega": "18,595.74",
@@ -22,7 +22,7 @@
 },
 {
 "descripcion": "ACONDICIONADOR DE AIRE-.-AUDIVIC SPLIT 3000 F/C......................",
-"gid": "101103",
+"id": "101103",
 "rubro": "001",
 "contado": "22,400.73",
 "entrega": "6,720.22",
@@ -32,7 +32,7 @@
 },
 {
 "descripcion": "ACONDICIONADOR DE AIRE--SUAVEGOM MERIT 1,40 X 0,24.......................",
-"gid": "102320",
+"id": "102320",
 "rubro": "001",
 "contado": "26,038.04",
 "entrega": "7,811.41",
@@ -42,7 +42,7 @@
 },
 {
 "descripcion": "AFEITADORA-PHILIPS- HQ-6907.16................................",
-"gid": "201003",
+"id": "201003",
 "rubro": "002",
 "contado": "2,426.75",
 "entrega": "728.02",
@@ -52,7 +52,7 @@
 },
 {
 "descripcion": "AFEITADORA-PHILIPS-CORTADORA CABELLO HC3505/15.......................",
-"gid": "201005",
+"id": "201005",
 "rubro": "002",
 "contado": "18,438.00",
 "entrega": "5,531.40",
@@ -62,7 +62,7 @@
 },
 {
 "descripcion": "AFEITADORA-V-EVER BEAUTY EB-1486...............................",
-"gid": "202001",
+"id": "202001",
 "rubro": "002",
 "contado": "13,621.61",
 "entrega": "4,086.48",
@@ -72,7 +72,7 @@
 },
 {
 "descripcion": "AFEITADORA-V-PHILIPS QC5115 CORTADORA DE CABELLO",
-"gid": "202023",
+"id": "202023",
 "rubro": "002",
 "contado": "1,579.54",
 "entrega": "473.86",
@@ -82,7 +82,7 @@
 },
 {
 "descripcion": "AFEITADORA-V-CORTADOR DE CABELLO HC 9-100......................",
-"gid": "202031",
+"id": "202031",
 "rubro": "002",
 "contado": "2,559.73",
 "entrega": "767.92",
@@ -92,7 +92,7 @@
 },
 {
 "descripcion": "AFEITADORA-V-CORTADOR DE CABELLO HC10 100..................",
-"gid": "202032",
+"id": "202032",
 "rubro": "002",
 "contado": "3,097.36",
 "entrega": "929.21",
@@ -102,7 +102,7 @@
 },
 {
 "descripcion": "AFEITADORA-V-GA.MA CORTADORA DE PELO SE PRO 9 POT.",
-"gid": "202036",
+"id": "202036",
 "rubro": "002",
 "contado": "4,623.74",
 "entrega": "1,387.12",
@@ -112,7 +112,7 @@
 },
 {
 "descripcion": "AFEITADORA-V-OSTER CORTA PELO CLPPER MX PRO......",
-"gid": "202040",
+"id": "202040",
 "rubro": "002",
 "contado": "7,064.85",
 "entrega": "2,119.45",
@@ -122,7 +122,7 @@
 },
 {
 "descripcion": "AFEITADORA-V-DUCATI CORTADORA DE CABELLO HC709...............",
-"gid": "202042",
+"id": "202042",
 "rubro": "002",
 "contado": "3,918.10",
 "entrega": "1,175.43",
@@ -132,7 +132,7 @@
 },
 {
 "descripcion": "AFEITADORA-V-OSTER CORTADORA DE CABELLO ....................",
-"gid": "202045",
+"id": "202045",
 "rubro": "002",
 "contado": "46,445.90",
 "entrega": "13,933.77",
@@ -142,7 +142,7 @@
 },
 {
 "descripcion": "AFEITADORA-V-NAVAJA LEO PAPPARELLA...........................",
-"gid": "202100",
+"id": "202100",
 "rubro": "002",
 "contado": "3,704.32",
 "entrega": "1,111.30",
@@ -152,7 +152,7 @@
 },
 {
 "descripcion": "ALACENA-V-MOGETTA KIT COCINA 4 PTAS.........................",
-"gid": "301001",
+"id": "301001",
 "rubro": "003",
 "contado": "122,155.55",
 "entrega": "36,646.67",
@@ -162,7 +162,7 @@
 },
 {
 "descripcion": "ALACENA-V-MOGETTA KIT COCINA 3 PTAS...........",
-"gid": "301002",
+"id": "301002",
 "rubro": "003",
 "contado": "103,452.33",
 "entrega": "31,035.70",
@@ -172,7 +172,7 @@
 },
 {
 "descripcion": "ALACENA-V-MAXI KIT COCINA 3 PUERTAS 3 CAJ",
-"gid": "301003",
+"id": "301003",
 "rubro": "003",
 "contado": "8,116.21",
 "entrega": "2,434.86",
@@ -182,7 +182,7 @@
 },
 {
 "descripcion": "ALACENA-V-MAXI KIT COCINA 7 PUERTAS 3 CAJ...................",
-"gid": "301004",
+"id": "301004",
 "rubro": "003",
 "contado": "13,962.38",
 "entrega": "4,188.71",
@@ -192,7 +192,7 @@
 },
 {
 "descripcion": "ALACENA-V-MAXI KIT COCINA 5 PUERTAS 3 CAJ...................",
-"gid": "301005",
+"id": "301005",
 "rubro": "003",
 "contado": "10,563.56",
 "entrega": "3,169.07",
@@ -202,7 +202,7 @@
 },
 {
 "descripcion": "ALACENA-V-MOGETTA ALAC.MES. BAJO 1,20 MTS",
-"gid": "301006",
+"id": "301006",
 "rubro": "003",
 "contado": "199,357.91",
 "entrega": "59,807.37",
@@ -212,7 +212,7 @@
 },
 {
 "descripcion": "ALACENA-V-MOGETTA ALAC.MES. BAJO 1,40 MTS",
-"gid": "301007",
+"id": "301007",
 "rubro": "003",
 "contado": "218,131.13",
 "entrega": "65,439.34",
@@ -222,7 +222,7 @@
 },
 {
 "descripcion": "ALACENA-V-MOGETTA ALAC.MES. BAJO 1,60 MTS................",
-"gid": "301008",
+"id": "301008",
 "rubro": "003",
 "contado": "259,535.15",
 "entrega": "77,860.54",
@@ -232,7 +232,7 @@
 },
 {
 "descripcion": "ALACENA-V-MOGETTA C. VIDRIO 1,20 MTS.................",
-"gid": "301009",
+"id": "301009",
 "rubro": "003",
 "contado": "51,052.65",
 "entrega": "15,315.80",
@@ -242,7 +242,7 @@
 },
 {
 "descripcion": "ALACENA-V-MOGETTA C. VIDRIO 1,40 MTS........................",
-"gid": "301010",
+"id": "301010",
 "rubro": "003",
 "contado": "57,941.02",
 "entrega": "17,382.31",
@@ -252,7 +252,7 @@
 },
 {
 "descripcion": "ALACENA-V-MOGETTA C. VIDRIO 1,60 MTS.................",
-"gid": "301011",
+"id": "301011",
 "rubro": "003",
 "contado": "63,681.02",
 "entrega": "19,104.31",
@@ -262,7 +262,7 @@
 },
 {
 "descripcion": "ALACENA-V-JGO MOGETTA PREMIUM 1.60 ALACENA, BAJO, MESADA..",
-"gid": "301015",
+"id": "301015",
 "rubro": "003",
 "contado": "277,363.11",
 "entrega": "83,208.93",
@@ -272,7 +272,7 @@
 },
 {
 "descripcion": "ALACENA-V-ESCOBERO MOGETTA PREMIUM..........................",
-"gid": "301020",
+"id": "301020",
 "rubro": "003",
 "contado": "94,357.15",
 "entrega": "28,307.15",
@@ -282,7 +282,7 @@
 },
 {
 "descripcion": "ALACENA-V-PLATINUM KIT DE COCINA 3015.......................",
-"gid": "301040",
+"id": "301040",
 "rubro": "003",
 "contado": "10,909.02",
 "entrega": "3,272.70",
@@ -292,7 +292,7 @@
 },
 {
 "descripcion": "ALACENA-V-NESTOR ALACENA BAJO 1,60 MTS...............",
-"gid": "301112",
+"id": "301112",
 "rubro": "003",
 "contado": "18,064.52",
 "entrega": "5,419.36",
@@ -302,7 +302,7 @@
 },
 {
 "descripcion": "ALACENA-V-NESTOR ALACENA 1.60 MTS...........................",
-"gid": "301115",
+"id": "301115",
 "rubro": "003",
 "contado": "8,738.45",
 "entrega": "2,621.54",
@@ -312,7 +312,7 @@
 },
 {
 "descripcion": "ALACENA-V-ORLANDI KIT C ALACENA INC.1,20 MTS...........",
-"gid": "301126",
+"id": "301126",
 "rubro": "003",
 "contado": "9,764.42",
 "entrega": "2,929.33",
@@ -322,7 +322,7 @@
 },
 {
 "descripcion": "ALACENA-V-ORLANDI MULTIFUNCION 2 PUERTAS 400...............",
-"gid": "301128",
+"id": "301128",
 "rubro": "003",
 "contado": "44,145.36",
 "entrega": "13,243.61",
@@ -332,7 +332,7 @@
 },
 {
 "descripcion": "ALACENA-V-ORLANDI MULTIFUNCION 1 PUERTA 401.............",
-"gid": "301129",
+"id": "301129",
 "rubro": "003",
 "contado": "35,141.86",
 "entrega": "10,542.56",
@@ -342,7 +342,7 @@
 },
 {
 "descripcion": "ALACENA-V-ORLANDI 1,20 MT...................................",
-"gid": "301130",
+"id": "301130",
 "rubro": "003",
 "contado": "21,312.14",
 "entrega": "6,393.64",
@@ -352,7 +352,7 @@
 },
 {
 "descripcion": "ALACENA-V-ORLANDI 1,40 MT...................................",
-"gid": "301131",
+"id": "301131",
 "rubro": "003",
 "contado": "23,646.73",
 "entrega": "7,094.02",
@@ -362,7 +362,7 @@
 },
 {
 "descripcion": "ALACENA-V-ORLANDI KIT C/ALACENA COMPACTA 1.80............",
-"gid": "301135",
+"id": "301135",
 "rubro": "003",
 "contado": "178,810.09",
 "entrega": "53,643.03",
@@ -372,7 +372,7 @@
 },
 {
 "descripcion": "ALACENA-V-ORLANDI JGO COCINA COMPACTA C/MESADA 1,80 MT......",
-"gid": "301136",
+"id": "301136",
 "rubro": "003",
 "contado": "13,259.51",
 "entrega": "3,977.85",
@@ -382,7 +382,7 @@
 },
 {
 "descripcion": "ALACENA-V-ORLANDI JGO ALACENA BAJO TAPA 1,40 MTS",
-"gid": "301139",
+"id": "301139",
 "rubro": "003",
 "contado": "144,684.18",
 "entrega": "43,405.25",
@@ -392,7 +392,7 @@
 },
 {
 "descripcion": "ALACENA-V-ORLANDI JGO ALACENA BAJO TAPA 1,20 MTS..........",
-"gid": "301140",
+"id": "301140",
 "rubro": "003",
 "contado": "128,307.98",
 "entrega": "38,492.39",
@@ -402,7 +402,7 @@
 },
 {
 "descripcion": "ALACENA-V-JIT JGO. COCINA 1.60 MT...........................",
-"gid": "301184",
+"id": "301184",
 "rubro": "003",
 "contado": "9,218.76",
 "entrega": "2,765.63",
@@ -412,7 +412,7 @@
 },
 {
 "descripcion": "ALACENA-V-TABLES MULTIUSO 2 PUERTAS 600 MM 3054.............",
-"gid": "301203",
+"id": "301203",
 "rubro": "003",
 "contado": "6,392.82",
 "entrega": "1,917.85",
@@ -422,7 +422,7 @@
 },
 {
 "descripcion": "ALACENA-V-MAXI ORGANIZADOR .............................",
-"gid": "301210",
+"id": "301210",
 "rubro": "003",
 "contado": "50,070.76",
 "entrega": "15,021.23",
@@ -432,7 +432,7 @@
 },
 {
 "descripcion": "ALACENA-V-JGO. DELOS 1.20 ALACENA- MESADA Y BAJOMESADA......",
-"gid": "301230",
+"id": "301230",
 "rubro": "003",
 "contado": "93,648.56",
 "entrega": "28,094.57",
@@ -442,7 +442,7 @@
 },
 {
 "descripcion": "ALACENA-V-JGO. DELOS 1.40 ALACENA - MESADA Y BAJOMESADA.....",
-"gid": "301231",
+"id": "301231",
 "rubro": "003",
 "contado": "113,150.16",
 "entrega": "33,945.05",
@@ -452,7 +452,7 @@
 },
 {
 "descripcion": "ALACENA-V-JGO. DELOS 1,55 MTS COCINA COMPACTA.....",
-"gid": "301235",
+"id": "301235",
 "rubro": "003",
 "contado": "131,692.57",
 "entrega": "39,507.77",
@@ -462,7 +462,7 @@
 },
 {
 "descripcion": "ALMOHADA-STANDAR-0.70 MT.X 035 X 9.................................",
-"gid": "401001",
+"id": "401001",
 "rubro": "004",
 "contado": "1,130.03",
 "entrega": "339.01",
@@ -472,7 +472,7 @@
 },
 {
 "descripcion": "ALMOHADA-STANDAR-0.70 MT.............................",
-"gid": "401002",
+"id": "401002",
 "rubro": "004",
 "contado": "8,176.00",
 "entrega": "2,452.80",
@@ -482,7 +482,7 @@
 },
 {
 "descripcion": "ALMOHADA-STANDAR-SUAVEGOM CALMA 0,70 X0,40.......................",
-"gid": "401004",
+"id": "401004",
 "rubro": "004",
 "contado": "5,327.00",
 "entrega": "1,598.10",
@@ -492,7 +492,7 @@
 },
 {
 "descripcion": "ALMOHADA-STANDAR-CLASICA BOMBE 065 X 40........................",
-"gid": "401008",
+"id": "401008",
 "rubro": "004",
 "contado": "12,833.89",
 "entrega": "3,850.17",
@@ -502,7 +502,7 @@
 },
 {
 "descripcion": "ALMOHADA-STANDAR-VENTILADA 65 X 35.................................",
-"gid": "401009",
+"id": "401009",
 "rubro": "004",
 "contado": "12,907.85",
 "entrega": "3,872.35",
@@ -512,7 +512,7 @@
 },
 {
 "descripcion": "ALMOHADA-V-CERVICAL 0,50 X 40................................",
-"gid": "403002",
+"id": "403002",
 "rubro": "004",
 "contado": "12,060.80",
 "entrega": "3,618.24",
@@ -522,7 +522,7 @@
 },
 {
 "descripcion": "ALMOHADA-V-PIERO MOON LIGHT 0,70.............................",
-"gid": "403006",
+"id": "403006",
 "rubro": "004",
 "contado": "8,813.00",
 "entrega": "2,643.90",
@@ -532,7 +532,7 @@
 },
 {
 "descripcion": "ALMOHADA-V-PIERO VISCO SENZACIONE 062X040....................",
-"gid": "403010",
+"id": "403010",
 "rubro": "004",
 "contado": "2,708.39",
 "entrega": "812.52",
@@ -542,7 +542,7 @@
 },
 {
 "descripcion": "ALMOHADA-V-PIERO CONFORT PLUS 0,70.........................",
-"gid": "403011",
+"id": "403011",
 "rubro": "004",
 "contado": "3,714.73",
 "entrega": "1,114.42",
@@ -552,7 +552,7 @@
 },
 {
 "descripcion": "ALMOHADA-V-PIERO CERVICAL....................................",
-"gid": "403012",
+"id": "403012",
 "rubro": "004",
 "contado": "3,596.10",
 "entrega": "1,078.83",
@@ -562,7 +562,7 @@
 },
 {
 "descripcion": "ALMOHADA-V-PIERO CUORE 0,70........................",
-"gid": "403013",
+"id": "403013",
 "rubro": "004",
 "contado": "20,543.60",
 "entrega": "6,163.08",
@@ -572,7 +572,7 @@
 },
 {
 "descripcion": "ALMOHADA-V-PIERO CERVICAL VISCOELASTICA 0,57X 0,37...........",
-"gid": "403014",
+"id": "403014",
 "rubro": "004",
 "contado": "3,230.19",
 "entrega": "969.06",
@@ -582,7 +582,7 @@
 },
 {
 "descripcion": "ALMOHADA-V-BEAUTYREST 70X35",
-"gid": "403016",
+"id": "403016",
 "rubro": "004",
 "contado": "24,216.19",
 "entrega": "7,264.86",
@@ -592,7 +592,7 @@
 },
 {
 "descripcion": "ALMOHADA-V-7 EN 1.........................................",
-"gid": "403030",
+"id": "403030",
 "rubro": "004",
 "contado": "21,756.74",
 "entrega": "6,527.02",
@@ -602,7 +602,7 @@
 },
 {
 "descripcion": "ALMOHADA-V-INPOLCOR HIPER SOFT 0,70 .........................",
-"gid": "403031",
+"id": "403031",
 "rubro": "004",
 "contado": "5,372.97",
 "entrega": "1,611.89",
@@ -612,7 +612,7 @@
 },
 {
 "descripcion": "ALMOHADA-V-VISCOELASTICA CERVICAL 0,60.......................",
-"gid": "403032",
+"id": "403032",
 "rubro": "004",
 "contado": "1,248.59",
 "entrega": "374.58",
@@ -622,7 +622,7 @@
 },
 {
 "descripcion": "ANDADOR-V-BEBELINDO PLATO VOLADOR 710.......................",
-"gid": "501003",
+"id": "501003",
 "rubro": "005",
 "contado": "2,972.41",
 "entrega": "891.72",
@@ -632,7 +632,7 @@
 },
 {
 "descripcion": "ANDADOR-V-BEBELINDO SUPER CUADRADO 712......................",
-"gid": "501004",
+"id": "501004",
 "rubro": "005",
 "contado": "2,096.48",
 "entrega": "628.94",
@@ -642,7 +642,7 @@
 },
 {
 "descripcion": "ANDADOR-V-LATAPY 1007-1009 SANM.........................",
-"gid": "501010",
+"id": "501010",
 "rubro": "005",
 "contado": "5,410.81",
 "entrega": "1,623.24",
@@ -652,7 +652,7 @@
 },
 {
 "descripcion": "ANDADOR-V-BIPO BWT45.....................................",
-"gid": "501028",
+"id": "501028",
 "rubro": "005",
 "contado": "39,060.00",
 "entrega": "11,718.00",
@@ -662,7 +662,7 @@
 },
 {
 "descripcion": "ANDADOR-V-STAR PER BAMBINI..................................",
-"gid": "501040",
+"id": "501040",
 "rubro": "005",
 "contado": "3,735.95",
 "entrega": "1,120.79",
@@ -672,7 +672,7 @@
 },
 {
 "descripcion": "ANTENA DE TV-MULTI-DIRECT TV C/MODEM.................................",
-"gid": "601020",
+"id": "601020",
 "rubro": "006",
 "contado": "5,999.04",
 "entrega": "1,799.71",
@@ -682,7 +682,7 @@
 },
 {
 "descripcion": "ART.INFANTILES-SILLA-BB ST 410.........................................",
-"gid": "801001",
+"id": "801001",
 "rubro": "008",
 "contado": "42,700.00",
 "entrega": "12,810.00",
@@ -692,7 +692,7 @@
 },
 {
 "descripcion": "ART.INFANTILES-SILLA-DIEMEL MINI.......................................",
-"gid": "801003",
+"id": "801003",
 "rubro": "008",
 "contado": "43,423.80",
 "entrega": "13,027.14",
@@ -702,7 +702,7 @@
 },
 {
 "descripcion": "ART.INFANTILES-SILLA-DIEMEL GALA................................",
-"gid": "801004",
+"id": "801004",
 "rubro": "008",
 "contado": "44,478.00",
 "entrega": "13,343.40",
@@ -712,7 +712,7 @@
 },
 {
 "descripcion": "ART.INFANTILES-SILLA- SAMOVA .F..............................",
-"gid": "801005",
+"id": "801005",
 "rubro": "008",
 "contado": "23,219.00",
 "entrega": "6,965.70",
@@ -722,7 +722,7 @@
 },
 {
 "descripcion": "ART.INFANTILES-SILLA-SAMOVA PLEGABLE C/BANDEJA............",
-"gid": "801006",
+"id": "801006",
 "rubro": "008",
 "contado": "28,299.60",
 "entrega": "8,489.88",
@@ -732,7 +732,7 @@
 },
 {
 "descripcion": "ART.INFANTILES-SILLA-DE COMER C.HAMACA BEBELINDO 640...................",
-"gid": "801007",
+"id": "801007",
 "rubro": "008",
 "contado": "3,116.62",
 "entrega": "934.99",
@@ -742,7 +742,7 @@
 },
 {
 "descripcion": "ART.INFANTILES-SILLA-BB BUTACA P. AUTO 602.............................",
-"gid": "801013",
+"id": "801013",
 "rubro": "008",
 "contado": "11,162.91",
 "entrega": "3,348.87",
@@ -752,7 +752,7 @@
 },
 {
 "descripcion": "ART.INFANTILES-SILLA-LATAPY BUTACA LUJO BU 007..............",
-"gid": "801019",
+"id": "801019",
 "rubro": "008",
 "contado": "5,765.75",
 "entrega": "1,729.73",
@@ -762,7 +762,7 @@
 },
 {
 "descripcion": "ART.INFANTILES-SILLA-DE COMER HAMACA...........................",
-"gid": "801022",
+"id": "801022",
 "rubro": "008",
 "contado": "4,739.87",
 "entrega": "1,421.96",
@@ -772,7 +772,7 @@
 },
 {
 "descripcion": "ART.INFANTILES-SILLA-LATAPY BOOSTER CON RESPALDO 4300...............",
-"gid": "801027",
+"id": "801027",
 "rubro": "008",
 "contado": "34,678.00",
 "entrega": "10,403.40",
@@ -782,7 +782,7 @@
 },
 {
 "descripcion": "ART.INFANTILES-SILLA-LATAPY BUTACA HUEVITO 2000........................",
-"gid": "801028",
+"id": "801028",
 "rubro": "008",
 "contado": "34,020.00",
 "entrega": "10,206.00",
@@ -792,7 +792,7 @@
 },
 {
 "descripcion": "ART.INFANTILES-SILLA-LATAPY ASIENTO PARA AUTO 3000...................",
-"gid": "801029",
+"id": "801029",
 "rubro": "008",
 "contado": "20,860.00",
 "entrega": "6,258.00",
@@ -802,7 +802,7 @@
 },
 {
 "descripcion": "ART.INFANTILES-SILLA-SALTARIN INFANTI CON ACCESORIOS...................",
-"gid": "801050",
+"id": "801050",
 "rubro": "008",
 "contado": "10,613.50",
 "entrega": "3,184.05",
@@ -812,7 +812,7 @@
 },
 {
 "descripcion": "ART.INFANTILES-JUGUETES-CONSOLA RETRO 620 JUEGOS..........................",
-"gid": "802001",
+"id": "802001",
 "rubro": "008",
 "contado": "16,170.00",
 "entrega": "4,851.00",
@@ -822,7 +822,7 @@
 },
 {
 "descripcion": "ART.INFANTILES-JUGUETES-TORTUGA/ BOLON ENCASTRES...................",
-"gid": "802002",
+"id": "802002",
 "rubro": "008",
 "contado": "281.69",
 "entrega": "84.51",
@@ -832,7 +832,7 @@
 },
 {
 "descripcion": "ART.INFANTILES-JUGUETES-LUNI CAMION BOMBERO...............................",
-"gid": "802003",
+"id": "802003",
 "rubro": "008",
 "contado": "419.55",
 "entrega": "125.86",
@@ -842,7 +842,7 @@
 },
 {
 "descripcion": "ART.INFANTILES-JUGUETES-BIGGER TRUCK ARENERO..............................",
-"gid": "802004",
+"id": "802004",
 "rubro": "008",
 "contado": "1,048.86",
 "entrega": "314.66",
@@ -852,7 +852,7 @@
 },
 {
 "descripcion": "ART.INFANTILES-JUGUETES-LUNI JGO. BOLOS GRANDE 12 PZAS....................",
-"gid": "802009",
+"id": "802009",
 "rubro": "008",
 "contado": "446.52",
 "entrega": "133.95",
@@ -862,7 +862,7 @@
 },
 {
 "descripcion": "ART.INFANTILES-JUGUETES-LOTERIA SAN REMO.............................",
-"gid": "802023",
+"id": "802023",
 "rubro": "008",
 "contado": "314.66",
 "entrega": "94.40",
@@ -872,7 +872,7 @@
 },
 {
 "descripcion": "ART.INFANTILES-JUGUETES-TOYS SONAJERO ANIMALITO...........................",
-"gid": "802084",
+"id": "802084",
 "rubro": "008",
 "contado": "209.77",
 "entrega": "62.93",
@@ -882,7 +882,7 @@
 },
 {
 "descripcion": "ART.INFANTILES-JUGUETES-CONVERTIBLE ROBOT BLASTER 2 EN 1..................",
-"gid": "802097",
+"id": "802097",
 "rubro": "008",
 "contado": "773.80",
 "entrega": "232.14",
@@ -892,7 +892,7 @@
 },
 {
 "descripcion": "ART.INFANTILES-JUGUETES-FIORELLA FABRICA DE TRENZAS............",
-"gid": "802115",
+"id": "802115",
 "rubro": "008",
 "contado": "1,144.59",
 "entrega": "343.38",
@@ -902,7 +902,7 @@
 },
 {
 "descripcion": "ART.INFANTILES-JUGUETES-ARO DE BASQUET",
-"gid": "802160",
+"id": "802160",
 "rubro": "008",
 "contado": "1,408.47",
 "entrega": "422.54",
@@ -912,7 +912,7 @@
 },
 {
 "descripcion": "ART.INFANTILES-CATRE DE BANO-DIEMEL LUNA.......................................",
-"gid": "803001",
+"id": "803001",
 "rubro": "008",
 "contado": "58,380.00",
 "entrega": "17,514.00",
@@ -922,7 +922,7 @@
 },
 {
 "descripcion": "ART.DE AUDIO-.-JGO BAFLE 7208...................................",
-"gid": "901004",
+"id": "901004",
 "rubro": "009",
 "contado": "8,940.32",
 "entrega": "2,682.09",
@@ -932,7 +932,7 @@
 },
 {
 "descripcion": "ART.DE AUDIO-.-BAFLE 1516..................................",
-"gid": "901009",
+"id": "901009",
 "rubro": "009",
 "contado": "17,273.29",
 "entrega": "5,181.99",
@@ -942,7 +942,7 @@
 },
 {
 "descripcion": "ART.DE AUDIO-.-BAFLE RS4T........................................",
-"gid": "901011",
+"id": "901011",
 "rubro": "009",
 "contado": "8,733.25",
 "entrega": "2,619.97",
@@ -952,7 +952,7 @@
 },
 {
 "descripcion": "ART.DE AUDIO-.-BAFLE PANACOM 3419 3500W C/MICROFONO..............",
-"gid": "901016",
+"id": "901016",
 "rubro": "009",
 "contado": "14,546.24",
 "entrega": "4,363.87",
@@ -962,7 +962,7 @@
 },
 {
 "descripcion": "ART.DE AUDIO-.-JGO DE BAFLE POTENCIADO 122.......................",
-"gid": "901044",
+"id": "901044",
 "rubro": "009",
 "contado": "11,390.66",
 "entrega": "3,417.20",
@@ -972,7 +972,7 @@
 },
 {
 "descripcion": "ART.DE AUDIO-.-TORRE 2039",
-"gid": "901055",
+"id": "901055",
 "rubro": "009",
 "contado": "21,280.00",
 "entrega": "6,384.00",
@@ -982,7 +982,7 @@
 },
 {
 "descripcion": "ART.DE AUDIO-.-RS 10T.......................................",
-"gid": "901063",
+"id": "901063",
 "rubro": "009",
 "contado": "51,086.00",
 "entrega": "15,325.80",
@@ -992,7 +992,7 @@
 },
 {
 "descripcion": "ART.DE AUDIO-.-BAFLE UNISEF USB-BTU 1777......................",
-"gid": "901090",
+"id": "901090",
 "rubro": "009",
 "contado": "76,115.20",
 "entrega": "22,834.56",
@@ -1002,7 +1002,7 @@
 },
 {
 "descripcion": "ART.DE AUDIO-.-BAFLE UNISEF UM-173...............................",
-"gid": "901091",
+"id": "901091",
 "rubro": "009",
 "contado": "77,896.00",
 "entrega": "23,368.80",

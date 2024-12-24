@@ -68,7 +68,7 @@ const RenderProductos = () => {
                 >
                   <CargarImagen imagen={producto.url} />
                   <h3 className="leading-8 mt-4"> {producto.descripcion} </h3>
-
+                  <p>{producto.id}</p>
                   <p className="leading-6"> Contado Efectivo</p>
                   <p className="text-3xl leading-10">{producto.contado} </p>
                   <p className="leading-6">

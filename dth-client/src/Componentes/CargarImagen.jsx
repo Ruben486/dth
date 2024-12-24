@@ -3,7 +3,7 @@ import "react-lazy-load-image-component/src/effects/blur.css";
 
 const CargarImagen = ({ imagen }) => {
   return (
-    <div className="img-de-card">
+    <div className="img-de-car">
       <LazyLoadImage effect="blur" src={imagen}></LazyLoadImage> 
       {/* <img src={imagen} alt="Imagen Producto" /> */}
     </div>

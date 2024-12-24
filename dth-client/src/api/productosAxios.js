@@ -4,8 +4,9 @@ import axios from "axios";
 /* const productosApi = axios.create({
   url: API_URL + "/productos/",
 }) */
-const url = API_URL + "/productos/";
-
+// const url = API_URL + "/productos/";
+// const url = "https://dth.onrender.com"  + "/productos/";
+const url = "http://localhost:3000" + "/productos/";
 export const getProductos = async () => {
   try {
     const { data}  = await axios.get(url);

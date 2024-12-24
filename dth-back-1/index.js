@@ -21,3 +21,4 @@ server.use((req,res,next) => {
   next();
 });
 server.listen(port);
+console.log(`Servidor montado en http://localhost:${port}`);
